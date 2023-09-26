@@ -55,11 +55,11 @@ global.location = "UK, London, hertfordshire" //ur location
 
 
 
-global.owner = ['447405935355']
+global.owner = ['917602646618']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '917602646618' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "Àlèx Pìkù" //ur bot name
 
 global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
 
@@ -91,7 +91,7 @@ global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw
 
 
 
-global.premium = global.premiumzz || ['447405935355'] //ur premium numbers
+global.premium = global.premiumzz || ['447405935355'] ['917602646618']//ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
